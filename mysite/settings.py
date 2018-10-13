@@ -25,7 +25,7 @@ SECRET_KEY = 's6a**m+4@!^mral$h)^8e$oul1b$&_5_rs5_+1juz98=g_lap2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'marifer.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
